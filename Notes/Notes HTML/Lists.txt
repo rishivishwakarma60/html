@@ -1,0 +1,58 @@
+Lists: lists are used to list of certain items 
+HTML contains 3 types of list1.
+1.Ordered list-> list of items where order is important 
+ex. 1.rohit
+    2.rishi
+     3.raj
+
+<ol>
+
+<li> xyz</li>
+<li>acf</li>
+</ol>
+output: 
+1.xyz
+2.acf
+
+
+you can also give type attributr in 5 types 
+"1","a","I","i","A".
+<ol type="1" start="101">
+
+
+  2. unordered list--> list of item where order is not important 
+  eg. 
+  .skiills:
+  .skill 1
+  .skill 2
+  .skill 3 
+
+  3. descrption list-> 
+  List of events or item mentioned with reference 
+  ex: A companys growth
+  1995-2000:
+           company established 
+   2001-2010:
+          companywent well
+   2001-2003:
+              company got successs
+   2034:
+               companay got bankrupt.   
+
+
+Tables:
+Tablesare used to represent data in a simplar format
+tables deal with rows(Horizontal) and coloumns(verticals)
+
+<table border="1">
+<tr>
+<th> SNO</th>  //table heading 
+<th> Name</th>
+ </tr>
+
+ <tr>
+ <td>25</td>    // table data 
+  <td>xyz</td>
+
+ </tr>
+</table>

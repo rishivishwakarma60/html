@@ -1,0 +1,94 @@
+http://git-scm.com/downloads
+
+
+cmd->git-v
+
+in vs code go to terminal--> new terminal
+Commands for git-->
+1) git init  (to start the git)
+2) git add .   (to add and . is used to add all the file present in that directory) or git add (html file name) dot is used for all in present directory
+3)git commit -m "message(any thing can wrote)"   (to declare the version/code is finalized)
+
+
+first time - git config --global user.email "Your email"
+git config --global user.name "Your username"
+do again  step 2 & 3  
+
+
+4) git remote add origin "link"
+5) git push -u  origin  (main or master)   bdbf
+
+
+
+https://github.com/prasad-bigdp/HTML4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+==========================================================================
+Formatting text are used to format the text They are-
+b--> used to make the text bold
+strong--> also used to make the text bold bu better SEO
+i-> is used to make the text italic
+em-> is used to make the text italic but better SEO
+u-> is used to make text get underline
+ins-> is also used to make the text underline but it means inssert a text tp seo .
+del--> used to make text deleted (strike through)
+sub--> used to get subscript.
+sup--> used to get super script 
+pre-> pre means pre formatted text.Pre is used to bring pre formatted data and .
+br--> br means break the line.
+hr-> hr means horizonntal line.
+
+
+
+
+

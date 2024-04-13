@@ -1,0 +1,57 @@
+What is html?
+HTML-Hyper Text Markup Language.
+HTML is used to develop Skeleton/Structure of the Page. 
+HTML uses tags for devoloping 
+HTML started from GML=>SGML=>HTML.started in 1992 . and the current version is HTML5
+
+HTML tags will have open or close
+<tagname> --------> open tag
+</tagname>---------> close tag
+whole html code will be between html open and html close tags.
+HTML will have head and body
+
+To open a folder by using CMD.
+< Code . >
+to go on folder cd <Folder name>
+to out from folder cd ..
+
+
+HTML- 1992.
+Skeleton of the webpage is done HTML
+To Write HTML you need a text editor ---> VS code  .
+for auto gebneeareted code ! ENter or doc enter or doctype or html:5 Enter 
+Shortcut used in visual studio code are called emmets
+
+Basic Settings 
+Auto save--> file--> Auto save
+Extension --> live server ,live preview
+prettier. 
+The gap we give in editor for more readablity is called indentation.
+
+
+
+Headings : Headings represents data in boold .they vary from h1 to  h6 in sizes 
+It is recommended to not to have more than one h1 in one webpage.
+
+
+wwww.project 
+---------------------------------------------------------------------------------------------------
+
+window+. for emoji
+space +.. for images or go to directory
+---------------------------------------------------
+ <!---Semantic Elements-->
+   <section><p>Hi</p></section> 
+   <header>
+<footer>
+    <article>
+        <nav>\
+            
+        </nav>
+    </article>
+</footer>
+   </header>
+   -----------------------------------------------------------------------------------
+   section -> are created for storing a particular area in our HTML code ..
+   headers 
+   footer
